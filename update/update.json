@@ -1,7 +1,7 @@
 {
-  "version": "3.0",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/dsl687/WAKE_ON_LAN_RELEASES/raw/main/release/wakeonlan_release.zip",
+  "version": "4.0",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/dsl687/WAKE_ON_LAN_RELEASES/releases/download/v4/wakeonlan_release.zip",
   "changelog": "Atualizado os links de download para repo public. melhorias na organizações do dirs. ajustado alguns nomes dos arquivos",
   "name": "Wake & Ping Monitor",
   "author": "Daninsk",
