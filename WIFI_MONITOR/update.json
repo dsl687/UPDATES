@@ -1,0 +1,9 @@
+{
+  "version": "v2.0-final",
+  "versionCode": 20,
+  "zipUrl": "https://github.com/dsl687/UPDATES/releases/download/v2/wifi_monitor_release.zip",
+  "changelog": "🔧 Foram feitos ajustes na organização dos scripts e correções de bugs. está 100% funcional",
+  "name": "🛜 Wifi Monitor",
+  "author": "👤 Daninsk",
+  "description":"👀🔎 Monitora o wifi a cada 10s. ao detectar que o wifi foi desativado, é executado o comando #*svc wifi enable*#. Ativando o wi-fi novamente. ✅"
+}
