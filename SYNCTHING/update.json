@@ -1,0 +1,9 @@
+{
+  "version": "v3.0-final",
+  "versionCode": 30,
+  "zipUrl": "https://github.com/dsl687/SYNCTHING/releases/download/v3/syncthing_release.zip",
+  "changelog": "🔧 Foram feitos ajustes na organização dos scripts e correções de bugs. está 100% funcional",
+  "name": "🔄Syncthing & Background Service",
+  "author": "👤 Daninsk",
+  "description": "📡 Módulo dedicado a manter a conexão e monitoramento de diretórios/arquivos e mante-los sincronizados entre o dispositivo Android e o Linux ✅"
+}
