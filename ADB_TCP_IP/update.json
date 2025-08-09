@@ -1,7 +1,7 @@
 {
   "version": "v2.0-final",
   "versionCode": 20,
-  "zipUrl": "https://github.com/dsl687/ADB_TCP_IP/releases/download/v2/adb_tcp_release.zip",
+  "zipUrl": "https://github.com/dsl687/UPDATES/releases/download/v2.0-final/adb_tcp_release.zip",
   "changelog": "🔧 Alterado scripts em shell para arquivo binário",
   "name": "🛜TCP/IP",
   "author": "👤 Daninsk",
