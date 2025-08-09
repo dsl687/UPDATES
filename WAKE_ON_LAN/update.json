@@ -1,6 +1,6 @@
 {
-  "version": "v8.0-final",
-  "versionCode": 80,
+  "version": "v7.0-final",
+  "versionCode": 70,
   "zipUrl": "https://github.com/dsl687/WAKE_ON_LAN/releases/download/v7/wakeonlan_release.zip",
   "changelog": "🔧 CORREÇÕES IMPORTANTES:\n• ✅ Corrigido ping contínuo com PC desligado\n• ✅ Implementada alternância correta entre IPs (IP1→IP2→IP1→IP2...)\n• ✅ Adicionada validação rigorosa de conectividade\n• ✅ Melhorada detecção de falsos positivos\n• ✅ Corrigido sistema de atualizações do Magisk\n• 🆕 Logs mais detalhados e informativos\n• ⚡ Performance otimizada e timeouts ajustados",
   "name": "🖥️ Wake & Ping Monitor",
