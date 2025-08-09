@@ -1,0 +1,9 @@
+{
+  "version": "v2.0-final",
+  "versionCode": 20,
+  "zipUrl": "https://github.com/dsl687/UPDATES/releases/download/v2/syncthing_bin_release.zip",
+  "changelog": "🔧 Foram feitos ajustes na organização dos scripts e correções de bugs. está 100% funcional",
+  "name": "🗄️Syncthing Binário",
+  "author": "👤 Daninsk",
+  "description": "🔗 Faz linkagem do binário Syncthing em: /system/bin via Magisk. ✅"
+}
