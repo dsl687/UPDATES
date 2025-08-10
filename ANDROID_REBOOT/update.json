@@ -1,6 +1,6 @@
 {
-  "version": "v5.0-final",
-  "versionCode": 50,
+  "version": "v4.0-final",
+  "versionCode": 40,
   "zipUrl": "https://github.com/dsl687/UPDATES/releases/download/v4/reboot_android_release.zip",
   "changelog": "🔧 Foram feitos ajustes na organização dos scripts e correções de bugs. está 100% funcional",
   "name": "♻️ Reboot Android 🤖",
