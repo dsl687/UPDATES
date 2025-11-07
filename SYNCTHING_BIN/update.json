@@ -1,6 +1,6 @@
 {
-  "version": "v2.0-final",
-  "versionCode": 20,
+  "version": "v3.0-final",
+  "versionCode": 30,
   "zipUrl": "https://github.com/dsl687/UPDATES/releases/download/v3/syncthing_bin_release.zip",
   "changelog": "🔧 Foram feitos ajustes na organização dos scripts e correções de bugs. está 100% funcional",
   "name": "🗄️Syncthing Binário",
