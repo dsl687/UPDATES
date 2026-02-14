@@ -1,15 +1,24 @@
-<programme start="20260214164500 -0300" stop="20260214190000 -0300" channel="espn">
-  <title lang="pt">Liverpool x Brighton</title>
-  <desc lang="pt">Os clubes das divisões inferiores e os da Premier League se enfrentam na mais antiga das copas...</desc>
-  <live>true</live>
-</programme>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="none" generator-info-url="none">
 
-<programme start="20260214190000 -0300" stop="20260214193000 -0300" channel="espn">
-  <title lang="pt">Inside Serie A</title>
-  <desc lang="pt">Um programa para conhecer a fundo a primeira divisão do futebol italiano...</desc>
-</programme>
+  <channel id="espn">
+    <url>http://www.clarotv.com.br</url>
+    <display-name lang="pt">ESPN</display-name>
+  </channel>
 
-<programme start="20260214193000 -0300" stop="20260214203000 -0300" channel="espn">
-  <title lang="pt">Bola da Vez: Diego Cerri, Diretor Esportivo do Red Bull Bragantino</title>
-  <desc lang="pt"></desc>
-</programme>
+  <programme start="20260214164500 -0300" stop="20260214190000 -0300" channel="espn">
+    <title lang="pt">Liverpool x Brighton</title>
+    <desc lang="pt">Os clubes das divisões inferiores e os da Premier League se enfrentam na mais antiga das copas...</desc>
+    <category lang="pt">Ao Vivo</category>
+  </programme>
+
+  <programme start="20260214190000 -0300" stop="20260214193000 -0300" channel="espn">
+    <title lang="pt">Inside Serie A</title>
+    <desc lang="pt">Um programa para conhecer a fundo a primeira divisão do futebol italiano...</desc>
+  </programme>
+
+  <programme start="20260214193000 -0300" stop="20260214203000 -0300" channel="espn">
+    <title lang="pt">Bola da Vez: Diego Cerri, Diretor Esportivo do Red Bull Bragantino</title>
+  </programme>
+
+</tv>
